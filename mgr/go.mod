@@ -1,3 +1,3 @@
-module github.com/omegasuite/winsvc/mgr
+module github.com/zeusyf/winsvc/mgr
 
 go 1.22.1

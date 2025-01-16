@@ -11,8 +11,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/omegasuite/winsvc/eventlog"
-	"github.com/omegasuite/winsvc/mgr"
+	"github.com/zeusyf/winsvc/eventlog"
+	"github.com/zeusyf/winsvc/mgr"
 )
 
 func exePath() (string, error) {

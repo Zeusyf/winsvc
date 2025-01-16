@@ -12,7 +12,7 @@ import (
 	"errors"
 	"syscall"
 
-	"github.com/omegasuite/winsvc/winapi"
+	"github.com/zeusyf/winsvc/winapi"
 )
 
 // Log provides access to system log.

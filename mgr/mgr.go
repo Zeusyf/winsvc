@@ -14,7 +14,7 @@ package mgr
 import (
 	"syscall"
 
-	"github.com/omegasuite/winsvc/winapi"
+	"github.com/zeusyf/winsvc/winapi"
 )
 
 // Mgr is used to manage Windows service.

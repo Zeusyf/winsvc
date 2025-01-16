@@ -10,8 +10,8 @@ import (
 	"errors"
 	"syscall"
 
-	"github.com/omegasuite/winsvc/registry"
-	"github.com/omegasuite/winsvc/winapi"
+	"github.com/zeusyf/winsvc/registry"
+	"github.com/zeusyf/winsvc/winapi"
 )
 
 const (

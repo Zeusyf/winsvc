@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/omegasuite/winsvc/winapi"
+	"github.com/zeusyf/winsvc/winapi"
 )
 
 // State describes service execution state (Stopped, Running and so on).

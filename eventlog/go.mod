@@ -1,3 +1,3 @@
-module github.com/omegasuite/winsvc/eventlog
+module github.com/zeusyf/winsvc/eventlog
 
 go 1.22.1

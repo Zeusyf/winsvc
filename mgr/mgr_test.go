@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/omegasuite/winsvc/mgr"
+	"github.com/zeusyf/winsvc/mgr"
 )
 
 func TestOpenLanManServer(t *testing.T) {

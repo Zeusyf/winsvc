@@ -18,7 +18,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/omegasuite/winsvc/svc"
+	"github.com/zeusyf/winsvc/svc"
 )
 
 func usage(errmsg string) {
